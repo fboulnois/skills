@@ -1,6 +1,6 @@
 # Skills
 
-A collection of custom AI skills that I use on a day-to-day basis.
+A collection of custom AI skills for software engineering on production codebases. Built for the daily work of understanding and modifying existing systems.
 
 ## Installation
 
