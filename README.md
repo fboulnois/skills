@@ -18,6 +18,12 @@ Install the skill from https://github.com/fboulnois/skills/tree/main/improve-cod
 
 ## Skills
 
+### [`/commit-pr`](./commit-pr/SKILL.md)
+
+Proposes a concise commit message and a copy-pasteable pull request description that explain what changed and why.
+
+Written to summarize completed work and explain its purpose to reviewers. The skill inspects the current changes and repository conventions, keeping the commit message within 50 characters and the PR description within 400 characters.
+
 ### [`/improve-codebase`](./improve-codebase/SKILL.md)
 
 Scans a codebase for codebase-wide improvement opportunities, presents them in a visual HTML report, and develops an implementation plan for whichever opportunity you choose.
