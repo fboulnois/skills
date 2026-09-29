@@ -36,7 +36,7 @@ There were several aspects of the original skill that `/improve-codebase` approa
 2. **Practical terminology:** Instead of framing improvements in design-theory jargon, `/improve-codebase` describes problems and proposed changes in clear, practical language, the way one developer would explain them to another.
 3. **Flexible HTML reporting:** Rather than prescribing a rigid report structure, `/improve-codebase` defines what evidence and analysis the report should contain while letting the presentation adapt to the findings. Repeated analyses of the same codebase often surface different opportunities and perspectives across runs.
 
-## [`/review-branch`](./review-branch/SKILL.md)
+### [`/review-branch`](./review-branch/SKILL.md)
 
 Reviews a branch for code and security issues, verifies findings, and reports high and medium severity issues in a fenced markdown block.
 
