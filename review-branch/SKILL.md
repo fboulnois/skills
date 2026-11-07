@@ -1,6 +1,6 @@
 ---
 name: review-branch
-description: Reviews a branch for code and security issues, verifies findings, and reports high and medium severity issues in a fenced markdown block.
+description: Reviews a branch for code and security issues, verifies findings, and reports high and medium severity issues in a fenced markdown block. Use when asked to review a branch.
 ---
 
 # Review Branch
