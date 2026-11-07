@@ -1,6 +1,6 @@
 ---
 name: commit-pr
-description: Propose a short git commit subject and a copy-pasteable markdown PR description for the current changes.
+description: Propose a short git commit subject and a copy-pasteable markdown PR description for the current changes. Use when asked for a commit message, commit subject, or PR description.
 ---
 
 # Commit and PR description
