@@ -1,6 +1,6 @@
 ---
 name: improve-codebase
-description: Scan the codebase for improvement opportunities, present them as a visual HTML report, then plan through whichever one you pick.
+description: Scan the codebase for improvement opportunities, present them as a visual HTML report, then plan through whichever one you pick. Use when looking for refactoring opportunities across the whole codebase.
 disable-model-invocation: true
 ---
 
