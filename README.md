@@ -24,6 +24,12 @@ Proposes a concise commit message and a copy-pasteable pull request description 
 
 Written to summarize completed work and explain its purpose to reviewers. The skill inspects the current changes and repository conventions, keeping the commit message within 50 characters and the PR description within 400 characters.
 
+### [`/implement-ticket`](./implement-ticket/SKILL.md)
+
+Implements a JIRA ticket with tests, reviews the changes with Claude and Codex, and splits the work into a stack of local PR branches.
+
+Designed for well-defined tickets and to reduce the back-and-forth of review cycles. The skill proactively runs code and security reviews with multiple agents, verifies findings, and resolves confirmed issues before presenting the results.
+
 ### [`/improve-codebase`](./improve-codebase/SKILL.md)
 
 Scans a codebase for codebase-wide improvement opportunities, presents them in a visual HTML report, and develops an implementation plan for whichever opportunity you choose.
